@@ -2,4 +2,4 @@
 <br>
 A power bi dashboard.
 <br>
-The tweets can in Latin language.
+The tweets are in Latin language.
